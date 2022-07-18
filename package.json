@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kensnyder/quill-image-resize-module.git"
+    "url": "git+https://github.com/tangdiying/quill-image-resize-module.git"
   },
   "keywords": [
     "quill",
@@ -21,18 +21,18 @@
     "resize",
     "sizer"
   ],
-  "author": "@kensnyder",
+  "author": "@tangdiying",
   "contributors": [
     {
-      "name": "Wikia",
-      "url": "https://github.com/Wikia"
+      "name": "tangdiying",
+      "url": "https://github.com/tangdiying"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kensnyder/quill-image-resize-module/issues"
+    "url": "https://github.com/tangdiying/quill-image-resize-module/issues"
   },
-  "homepage": "https://github.com/kensnyder/quill-image-resize-module#readme",
+  "homepage": "https://github.com/tangdiying/quill-image-resize-module#readme",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-eslint": "^7.2.1",
