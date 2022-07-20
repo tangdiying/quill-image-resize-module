@@ -1,5 +1,5 @@
 {
-  "name": "qing-quill-image-resize-module",
+  "name": "quill-image-resize-module",
   "version": "3.0.1",
   "description": "A module for Quill rich text editor to allow images to be resized.",
   "main": "image-resize.min.js",
@@ -9,10 +9,6 @@
     "dev": "webpack --progress --colors --watch",
     "lint": "eslint --ext js,es6 src",
     "fixlint": "eslint --fix --ext js,es6 src"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tangdiying/quill-image-resize-module.git"
   },
   "keywords": [
     "quill",
@@ -29,10 +25,6 @@
     }
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tangdiying/quill-image-resize-module/issues"
-  },
-  "homepage": "https://github.com/tangdiying/quill-image-resize-module#readme",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-eslint": "^7.2.1",
